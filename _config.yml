@@ -1,7 +1,9 @@
 # Site
 name: "Synaptic Machine"
 title: "Synaptic Machine"
-description: "Exploring the world of AI, machine learning, and cutting-edge technology through insightful articles and research"
+description: "Synaptic Machine is a research-backed blog exploring the world of artificial intelligence. My goal is to connect curious minds with original and ground-breaking research shaping the future of AI. Each post is designed to be rooted in peer-reviewed research, accessible to early-career AI enthusiasts and packed with credible references. 
+Where you’re building your first model or just want to understand what the AI hype is all about, this blog is a place for you to think, learn and explore
+"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""  
@@ -20,7 +22,7 @@ authors:
     email: afreen.iws@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Author of Synaptic Machine. I read research papers (so you don’t have to), break them down and share insights that are grounded in evidence, not just vibes."
 
 
 # Plugins
